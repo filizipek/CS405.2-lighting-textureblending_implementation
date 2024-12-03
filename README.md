@@ -1,5 +1,7 @@
 # CS 405 Project 2: Texture & Illumination
 
+https://github.com/filizipek/CS405.2-texture_and_illumination_implementation
+
 ## Overview
 
 This project implements texture mapping and lighting techniques using WebGL. It allows users to upload 3D models and textures, adjust lighting parameters, and explore different shading effects.
